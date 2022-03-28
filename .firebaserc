@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "empleados-7e743": {
+      "hosting": {
+        "ejercicio3": [
+          "empleados-7e743"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "empleados-7e743"
+  }
+}
